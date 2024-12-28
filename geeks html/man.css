@@ -1,0 +1,29 @@
+p{
+    color: brown;
+    background-color: yellow;
+    text-decoration: underline;;
+}
+h1{
+    color: blueviolet;
+    background-color: antiquewhite;
+    text-align: center;
+}
+footer{
+    color: green;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+h3{
+    color: olivedrab;
+}
+button{
+    text-align: center;
+    color: blue;
+    background-color: aquamarine;
+}
+#man,#nam{
+    text-align: center;
+    background: none;
+}#ham{
+    background-color: yellow
+}
